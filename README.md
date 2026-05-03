@@ -1,0 +1,2 @@
+# SQL-AGGREGATES-AND-OPERATORS-EXC2
+Questions and Answers
